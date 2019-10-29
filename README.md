@@ -2,7 +2,7 @@
 Se desea desarrollar un sistema que permita controlar la reproducción de música en un reproductor MP3. El sistema permite realizar las
 siguientes acciones:Play: Reproduce la canción seleccionada, si es que el reproductor esta en modo de selección de canciones. Caso contrario produce
 un error.
-Pause: Pausa la canción que se está reproduciendo. Si la canción está en pausada retoma la reproducción, caso contrario genera un
+Pause: io.github.juanqui1989.EstadosDeMp3.Pausa la canción que se está reproduciendo. Si la canción está en pausada retoma la reproducción, caso contrario genera un
 error.
 Stop: Para la reproducción o la pausa, y pasa a selección de canciones. Caso contrario no hace nada.
 Se asume que existe una clase “Song” que entiende los mensajes play(); pause(); stop(); con la cual usted debe interactuar.
