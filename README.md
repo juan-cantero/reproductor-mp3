@@ -1,4 +1,4 @@
-#Reproductor MP3
+# Reproductor MP3
 Se desea desarrollar un sistema que permita controlar la reproducción de música en un reproductor MP3. El sistema permite realizar las
 siguientes acciones:Play: Reproduce la canción seleccionada, si es que el reproductor esta en modo de selección de canciones. Caso contrario produce
 un error.
